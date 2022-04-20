@@ -1,0 +1,47 @@
+D:\rider projects\TwitterTrends\bin\Debug\TwitterTrends.exe.config
+D:\rider projects\TwitterTrends\bin\Debug\TwitterTrends.exe
+D:\rider projects\TwitterTrends\bin\Debug\TwitterTrends.pdb
+D:\rider projects\TwitterTrends\obj\Debug\TwitterTrends.csproj.AssemblyReference.cache
+D:\rider projects\TwitterTrends\obj\Debug\TwitterTrends.csproj.SuggestedBindingRedirects.cache
+D:\rider projects\TwitterTrends\obj\Debug\MainWindow.baml
+D:\rider projects\TwitterTrends\obj\Debug\MainWindow.g.cs
+D:\rider projects\TwitterTrends\obj\Debug\App.g.cs
+D:\rider projects\TwitterTrends\obj\Debug\TwitterTrends_Content.g.cs
+D:\rider projects\TwitterTrends\obj\Debug\TwitterTrends_MarkupCompile.cache
+D:\rider projects\TwitterTrends\obj\Debug\TwitterTrends.g.resources
+D:\rider projects\TwitterTrends\obj\Debug\TwitterTrends.Properties.Resources.resources
+D:\rider projects\TwitterTrends\obj\Debug\TwitterTrends.csproj.GenerateResource.cache
+D:\rider projects\TwitterTrends\obj\Debug\TwitterTrends.csproj.CoreCompileInputs.cache
+D:\rider projects\TwitterTrends\obj\Debug\TwitterTrends.exe
+D:\rider projects\TwitterTrends\obj\Debug\TwitterTrends.pdb
+C:\Users\User\Desktop\TwitterTrends\bin\Debug\TwitterTrends.exe.config
+C:\Users\User\Desktop\TwitterTrends\bin\Debug\TwitterTrends.exe
+C:\Users\User\Desktop\TwitterTrends\bin\Debug\TwitterTrends.pdb
+C:\Users\User\Desktop\TwitterTrends\obj\Debug\TwitterTrends.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TwitterTrends\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\TwitterTrends\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\TwitterTrends\obj\Debug\App.g.cs
+C:\Users\User\Desktop\TwitterTrends\obj\Debug\TwitterTrends_Content.g.cs
+C:\Users\User\Desktop\TwitterTrends\obj\Debug\TwitterTrends_MarkupCompile.cache
+C:\Users\User\Desktop\TwitterTrends\obj\Debug\TwitterTrends.g.resources
+C:\Users\User\Desktop\TwitterTrends\obj\Debug\TwitterTrends.Properties.Resources.resources
+C:\Users\User\Desktop\TwitterTrends\obj\Debug\TwitterTrends.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TwitterTrends\obj\Debug\TwitterTrends.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TwitterTrends\obj\Debug\TwitterTrends.exe
+C:\Users\User\Desktop\TwitterTrends\obj\Debug\TwitterTrends.pdb
+C:\Users\Ivan\Desktop\TwitterTrends\bin\Debug\TwitterTrends.exe.config
+C:\Users\Ivan\Desktop\TwitterTrends\bin\Debug\TwitterTrends.exe
+C:\Users\Ivan\Desktop\TwitterTrends\bin\Debug\TwitterTrends.pdb
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\TwitterTrends.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\TwitterTrends.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\MainWindow.baml
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\MainWindow.g.cs
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\App.g.cs
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\TwitterTrends_Content.g.cs
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\TwitterTrends_MarkupCompile.cache
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\TwitterTrends.g.resources
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\TwitterTrends.Properties.Resources.resources
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\TwitterTrends.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\TwitterTrends.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\TwitterTrends.exe
+C:\Users\Ivan\Desktop\TwitterTrends\obj\Debug\TwitterTrends.pdb
